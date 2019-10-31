@@ -1,7 +1,7 @@
 # learning-journal
 
 ## Growth Mindset
-
+After reading this article [How you can benefit from a growth mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset):
 - For me, a `growth mindset` is having a proactive behavior.
 - Having a `growth mindset` will improve myself for achieving any goal.
 ***
