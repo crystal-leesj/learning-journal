@@ -34,7 +34,7 @@ italic | *This text will be italic*
 bold | **This text will be bold**
 Lists Unordered | * Item 1
 Lists Ordered  | 1. Item 1
-Images | ![GitHub Logo](/images/logo.png)
+Images | http://github.com - automatic! ![GitHub Logo](/images/logo.png)
 Links | [GitHub](http://github.com)
 Blockquotes | > We're living the future so
-Inline code | `<addr>` element here instead.
+Inline code | I think you should use an `<addr>` element here instead.
