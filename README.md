@@ -7,6 +7,8 @@ After reading this article [How you can benefit from a growth mindset](https://w
 For me, a `growth mindset` is having a proactive behavior.
 Having a `growth mindset` will improve myself for achieving any goal.
 
+***
+
 ### 3 reminders to yourself of how to keep yourself in a growth mindset
 
  - I try to finish any task that is hard and challenging. Whenever I have a chance to organize my schedule, I list the task from the hard to the easy. Then I start to tackle one by one. If I skip the challenging task, my mind becomes unhealthy. I get stressed over the fact that I still have to do the task. So it is better to finish it before I get worried something that I can do.
