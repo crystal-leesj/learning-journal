@@ -37,4 +37,5 @@ Lists Ordered  | 1. Item 1
 Images | http://github.com - automatic! ![GitHub Logo](/images/logo.png)
 Links | [GitHub](http://github.com)
 Blockquotes | > We're living the future so
-Inline code | I think you should use an `<addr>` element here instead.
+Inline code | I think you should use an
+              `<addr>` element here instead.
