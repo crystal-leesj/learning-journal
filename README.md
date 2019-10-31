@@ -29,7 +29,7 @@ Markdown is a way to style text on the web. You control the display of the docum
 ### Syntax guide
 First Header | Second Header
 ------------ | -------------
-Headers | # This is an <h1> tag
+Headers | ``` # This is an <h1> tag ```
 italic | *This text will be italic*
 bold | **This text will be bold**
 Lists Unordered | * Item 1
