@@ -1,3 +1,13 @@
+## Choosing a text editor
+
+### What is a text editor?
+A text editor is a piece of software that you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site.
+
+### The Difference Between Text Editors and IDEs
+A text editor edits text, manages text, and manages files. An IDE is really asuite of differnt software all coming together. An IDE is a **text editor**, a **file manager**, a **compiler**, and a **debugger** all in one software package.
+
+***
+
 ## The Command Line **cheat sheet**
 
 ### Comands
