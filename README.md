@@ -1,8 +1,9 @@
 # learning-journal
 
 ## Table of Content
-1. [Growth Mindset](growth-mindset.md)
-2. [Markdown](markdown.md)
+* [Growth Mindset](growth-mindset.md)
+* [Markdown](markdown.md)
+
 ***
 
 ## Self-intoriduction
