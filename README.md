@@ -5,6 +5,7 @@
 * [Growth Mindset](growth-mindset.md)
 * [Markdown](markdown.md)
 * [Coder's Computer](coders-computer.md)
+* [Revisions and the Cloud](revisions-and-the-cloud.md)
 
 ***
 
