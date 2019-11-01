@@ -5,7 +5,7 @@
 ## Table of Content
 * [Growth Mindset](growth-mindset.md)
 * [Markdown](markdown.md)
-
+* [Coder's Computer](coders-computer.md)
 ***
 
 ## Self-intoriduction
