@@ -14,3 +14,5 @@ The local Git repository has three components:
 1. Working Directory: The actual files reside here.
 1. Index: The area used for staging
 1. Head: Points to the most recent commit
+
+![GitHub Logo](https://blog.udemy.com/wp-content/uploads/2015/08/image036.png)
