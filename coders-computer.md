@@ -1,9 +1,9 @@
 ## The Command Line **cheat sheet**
 
 ### Comands
-- **pwd**
+- `pwd`
   - Print WOrking Directory
-- **ls**
+- `ls`
   - List
 - `cd`
   - Change directory
