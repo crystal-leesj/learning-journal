@@ -17,7 +17,7 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
 - Sections
   - The <section> element groups related content together, and typically each section would have its own heading.
 - Heading groups
-  - The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.
+  - The purpose of the <hgroup> element is to group together a set of one or more ```<h1>``` through ```<h6>``` elements so that they are treated as one single heading.
 - Figures
   - You already met the <figure> element in Chapter 5 when we looked at images. It can be used to contain any content that is referenced from the main flow of an article (not just images).
   - It is important to note that the article should still make sense if the content of the <figure> element were moved (to another part of the page, or even to a different page altogether).
