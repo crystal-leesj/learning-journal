@@ -6,6 +6,7 @@
 * [Markdown](markdown.md)
 * [Coder's Computer](coders-computer.md)
 * [Revisions and the Cloud](revisions-and-the-cloud.md)
+* [Structure web pages with HTML](structure-web-pages-with-HTML.md)
 
 ***
 
