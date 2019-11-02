@@ -8,6 +8,7 @@
 * [Revisions and the Cloud](revisions-and-the-cloud.md)
 * [Structure web pages with HTML](structure-web-pages-with-HTML.md)
 * [Design web pages with CSS](design-web-pages-with-CSS.md)
+* [Dynamic web pages with JavaScript](dynamic-web-pages-with-javaScript.md)
 
 ***
 
