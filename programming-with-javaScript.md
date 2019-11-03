@@ -26,4 +26,20 @@ INCREMENT | `++` | Adds one to the current number | 10 += 1 | 11
 DECREMENT | `--` | Subtracts one from the current number | 10 -= 1 | 9
 MODULUS | `%` | Divides two values and returns the remainder | 10 % 3 | 1
 
+### Function
+- Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).
 
+### Declaring a Function
+- To create a function, you give it a name and then write the statements needed to achieve its task inside the curly braces.
+
+### Calling a Function
+- Having declared the function, you can then execute all of the statements between its curlt braces with just one line of code.
+
+### Declaring functions that need information
+- Somtimes a function needs specific information to perform its task. In sich cases, when you declare the function you give it **parameters**. Inside the function, the parameters act like variables.
+
+### Calling functions that need information
+- When you call a function that has parameters, you specify the values it should use in the parentheses that follow its name. The values are called **arguments**, and they can be provided as values or as variables.
+
+### Gettinh a single value out of a function
+- Some functions return information to the code that called them. For example, when they perform a calculation, they return the results.
