@@ -18,7 +18,7 @@ Operator | Meaning
 `!` | logical not
 
 ### Loop Counters
-
+------------ | -------------
 Initialization | `var = 0;`
 Condition | `i < 10;`
 Update | `i++`
