@@ -18,9 +18,14 @@ Operator | Meaning
 `!` | logical not
 
 ### Loop Counters
+Condition | Example
 ------------ | -------------
 Initialization | `var = 0;`
 Condition | `i < 10;`
 Update | `i++`
 
+- Loops check condition. If it returns **true**, a code block will run.
+  - For
+  - While
+  - Do While
 
