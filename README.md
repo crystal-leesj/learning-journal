@@ -10,6 +10,7 @@
 * [Design web pages with CSS](design-web-pages-with-CSS.md)
 * [Dynamic web pages with JavaScript](dynamic-web-pages-with-javaScript.md)
 * [Computer Architecture and Logic](computer-architecture-and-logic.md)
+* [Programming with JavaScript](programming-with-javaScript.md)
 
 ***
 
